@@ -2,6 +2,8 @@ package server
 
 import net.lag.configgy.Configgy
 import net.lag.logging.Logger
+import se.scalablesolutions.akka.actor.Actor.actorOf
+import se.scalablesolutions.akka.actor._
 
 object server
 {
